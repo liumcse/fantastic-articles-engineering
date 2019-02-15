@@ -4,6 +4,7 @@ Some articles worth reading more than once - or perhaps, tens of times. Feel fre
 ## General Software Engineering
 - [Good Engineering Practices while Working Solo - Bits and Pieces](https://blog.bitsrc.io/good-engineering-practices-while-working-solo-ad872e727af4)
 - [Code Review Best Practices - Palantir Blog - Medium](https://medium.com/palantir/code-review-best-practices-19e02780015f)
+- [Best Practices for Maintainers | Open Source Guides](https://opensource.guide/best-practices/)
 
 ## Web Technologies
 - [Preload, Prefetch And Priorities in Chrome - reloading - Medium](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
