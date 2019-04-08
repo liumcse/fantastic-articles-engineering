@@ -8,6 +8,9 @@ Some articles worth reading more than once - or perhaps, tens of times. Feel fre
 - [How to write clean code? Lessons learnt from “The Clean Code” — Robert C. Martin](https://medium.com/mindorks/how-to-write-clean-code-lessons-learnt-from-the-clean-code-robert-c-martin-9ffc7aef870c)
 - [SOLID Principles every Developer Should Know - Bits and Pieces](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
 
+## Developer Experience
+- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+
 ## Web Technologies
 - [Preload, Prefetch And Priorities in Chrome - reloading - Medium](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
 - [Web Architecture 101 - VideoBlocks Product & Engineering](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
